@@ -1,9 +1,10 @@
 {
   "name": "arif_ui_mailab",
   "version": "1.0",
-  "description": "arif ui for portfolio site",
+  "description": "arif ui for portfolio",
   "main": "index.js",
   "author": "Md Ariful islam",
+  "license": "MIT",
   "homepage": ".",
   "scripts": {
     "start": "react-scripts start",

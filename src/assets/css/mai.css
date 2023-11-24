@@ -1,3 +1,7 @@
 .section-shaped .shape-style-1.shape-default {
     background: linear-gradient(150deg, #009688 15%, #EFEBE9 70%, #4CAF50 94%);
 }
+
+section-profile-cover {
+    height: 500px !important;
+}
