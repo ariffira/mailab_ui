@@ -77,14 +77,14 @@ function Tutes() {
                           Tutorial 01
                         </h6>
                         <p className="description mt-3">
-                          Reactjs inventory list
+                          How to add existing file/code/folder in github remote repository from local pc
                         </p>
                         <div>
                           <Badge color="primary" pill className="mr-1">
                             Reactjs
                           </Badge>
                           <Badge color="primary" pill className="mr-1">
-                            css
+                            Github
                           </Badge>
                           <Badge color="primary" pill className="mr-1">
                             js
@@ -93,8 +93,7 @@ function Tutes() {
                         <Button
                           className="mt-4"
                           color="primary"
-                          href="#pablo"
-                          onClick={(e) => e.preventDefault()}
+                          href="https://medium.com/p/467bf396694e"
                         >
                           Learn more
                         </Button>
@@ -127,7 +126,7 @@ function Tutes() {
                         <Button
                           className="mt-4"
                           color="success"
-                          href="#pablo"
+                          href="https://medium.com/p/467bf396694e"
                           onClick={(e) => e.preventDefault()}
                         >
                           Learn more
@@ -161,7 +160,7 @@ function Tutes() {
                         <Button
                           className="mt-4"
                           color="warning"
-                          href="#pablo"
+                          href="https://medium.com/p/467bf396694e"
                           onClick={(e) => e.preventDefault()}
                         >
                           Learn more

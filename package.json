@@ -1,14 +1,10 @@
 {
   "name": "arif_ui_mailab",
   "version": "1.0",
-  "description": "redesign from argon",
+  "description": "arif ui for portfolio site",
   "main": "index.js",
   "author": "Md Ariful islam",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-design-system-react/issues"
-  },
-  "homepage": "https://demos.creative-tim.com/argon-design-system-react/",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
