@@ -2,17 +2,12 @@ import React from "react";
 import myData from "../assets/data/myGoal.js"
 // reactstrap components
 import { Button, Card, Container, Row, Col } from "reactstrap";
-import mernLogo from "assets/img/project_pics/mern.jpg"
-import reactLogo from "assets/img/project_pics/reactjs.jpeg"
-import bootstrapLogo from "assets/img/project_pics/bootstrap.jpeg"
-import muiLogo from "assets/img/project_pics/mui.png"
-import awsLogo from "assets/img/project_pics/aws.png"
 
 function Profile() {
   return (
     <>
       <main className="profile-page">
-        <section className="section-profile-cover section-shaped my-0" style={{ height: '250px' }}>
+        <section className="section-profile-cover section-shaped my-0">
           {/* Circles background */}
           <div className="shape shape-style-1 shape-default alpha-4">
             <span />
