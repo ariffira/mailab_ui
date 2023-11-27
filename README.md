@@ -1,3 +1,4 @@
 ## Author: Muhammad Ariful Islam
-### purpose: personal site
+### Purpose: personal portfolio site
 ### template from Argon
+### Re-designed by arif(MAI)
