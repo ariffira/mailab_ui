@@ -100,7 +100,7 @@ function Project() {
                 <Link to="/landing-page">
                   <CardImg
                     alt="..."
-                    src={require("assets/img/theme/landing.jpg")}
+                    src={require("assets/img/project_pics/eshop.png")}
                   />
                 </Link>
               </Card>

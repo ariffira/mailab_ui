@@ -35,7 +35,7 @@ function ProjectPics() {
                             <Link to="/profile-page">
                                 <CardImg
                                     alt="..."
-                                    src={require("assets/img/theme/profile.jpg")}
+                                    src={require("assets/img/project_pics/eshop.png")}
                                 />
                             </Link>
                         </Card>
